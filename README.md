@@ -1,6 +1,9 @@
+# 合弄制章程 v4.1  中文版
+### by T12GROUP
+
 > 备注：
 > 1. 本章程是基于HolacracyOne,LLC公司所公布的英文章程4.1版（ 原文链接：[https://www.holacracy.org/constitution](https://www.holacracy.org/constitution)）的中文翻译。任何人在使用此章程时，都必须遵循HolacracyOne,LLC公司所要求的版权使用说明。如果您对本章程的翻译有任何问题，欢迎登陆GitHub提交您的建议和反馈。
-> 2. 本章程基于 yiqing-he 的中译版进行了校对和修改，原版的GitHub链接：[https://github.com/yiqing-he/Holacracy-Constitution-CN](https://github.com/yiqing-he/Holacracy-Constitution-CN)。
+> 2. 本章程基于 yiqing-he 的中译版进行了校对和修改，原版的GitHub链接：[https://github.com/yiqing-he/Holacracy-Constitution-CN](https://github.com/yiqing-he/Holacracy-Constitution-CN/blob/master/Holacracy-Constitution-CN.md)。
 > 3. 本章程已基于T12理解和实际应用需求对部分名称进行了替换，详情请见 [名词释义](https://github.com/NeptunKid/Holacracy-Constitution-CN-T12/wiki/Dictionary)。
 
 ## <a name="vd47xx"></a>序言
