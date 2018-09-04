@@ -1,7 +1,7 @@
 > 备注：
 > 1. 本章程是基于HolacracyOne,LLC公司所公布的英文章程4.1版（ 原文链接：[https://www.holacracy.org/constitution](https://www.holacracy.org/constitution)）的中文翻译。任何人在使用此章程时，都必须遵循HolacracyOne,LLC公司所要求的版权使用说明。如果您对本章程的翻译有任何问题，欢迎登陆GitHub提交您的建议和反馈。
 > 2. 本章程基于 yiqing-he 的中译版进行了校对和修改，原版的GitHub链接：[https://github.com/yiqing-he/Holacracy-Constitution-CN](https://github.com/yiqing-he/Holacracy-Constitution-CN)。
-> 3. 本章程已基于T12理解和实际应用需求对部分名称进行了替换，详情请见 [名词释义](https://t12.yuque.com/group/holacracy/uvkski)。
+> 3. 本章程已基于T12理解和实际应用需求对部分名称进行了替换，详情请见 [名词释义](https://github.com/NeptunKid/Holacracy-Constitution-CN-T12/wiki/Dictionary)。
 
 ## <a name="vd47xx"></a>序言
 本 __"章程"__ 定义了组织中管理与运营的规则与流程。 一旦组织中的 __"掌权人"__ 同意采纳合弄制，这些规则将成为该 __“组织”__ 的正式权力结构。 这里的组织，可以是掌权人拥有自主管理和运营权力的整个组织，也可以是其中的一个部分。掌权人以及任何同意参与组织管理与运营的个体（组织的 __“伙伴”__ ）将依据此章程被授予相应的权力，同时也同意承担本章程规定的义务与约束。
