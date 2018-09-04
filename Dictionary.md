@@ -1,5 +1,3 @@
-| __<span data-type="color" style="color: rgb(250, 84, 28);">名词</span>__ | <span data-type="color" style="color: rgb(250, 84, 28);"><strong>英文 </strong></span> | <span data-type="color" style="color: rgb(250, 84, 28);"><strong>又译作</strong></span> | __<span data-type="color" style="color: rgb(250, 84, 28);">释义
-</span>__ |
 | :--- | :--- | :--- | :--- |
 | 合弄制 | Holacracy |  | 
  |
@@ -60,5 +58,3 @@
 | 周期重复性行动 | Recurring Actions | 周期性行动 |  |
 | 代理 | Surrogate |  |  |
 | 根本圈子 | Anchor Circle | Root Circle |  |
-
-
